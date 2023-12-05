@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.places-card {
+  display: flex;
+  flex-direction: column;
+  margin: 5px;
+}
+.image {
+  border-radius: 12px;
+  height: 200px;
+  width: 200px;
+}
+.place-name {
+  font-family: 'Open Sans';
+  font-size: 18px;
+  color: #000000;
+}
